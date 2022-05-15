@@ -1,0 +1,17 @@
+::placeholder{
+    color: red;
+}
+
+button{
+    margin-left: 20%;
+    background-color:lightblue;
+}
+
+textarea{
+    width: 350px;
+    height:100px;
+}
+
+.msg{
+    margin-top: 20%;
+}
